@@ -1,5 +1,7 @@
 body {
     font-family: sans-serif;
+    padding-top: 10em;
+    padding-left: 20em;
 }
 
 select {
